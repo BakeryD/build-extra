@@ -13,7 +13,7 @@ Examples:
 
 Git-2.3.5.3-64-bit.exe
 
-There are not necessary Git for Windows releases for each official Git
+There are not necessarily Git for Windows releases for each official Git
 version. A Git for Windows release is tagged by a tag having a postfix
 '.windows.[0-9]+'.
 
